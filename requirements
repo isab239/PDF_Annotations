@@ -1,0 +1,37 @@
+# Streamlit für die GUI
+streamlit
+
+# Pandas für Datenverarbeitung und Analyse
+pandas
+
+# PyMuPDF (fitz) für PDF-Bearbeitung
+pymupdf
+
+# NLTK für Sprachverarbeitung (Tokenisierung)
+nltk
+
+# Matplotlib für Diagrammerstellung
+matplotlib
+
+# NumPy für numerische Berechnungen
+numpy
+
+# spaCy für NLP-Aufgaben (Falls im Programm verwendet)
+spacy
+
+# PyPDF2 für die PDF-Verarbeitung
+pypdf2
+
+# tkinter für Datei-Dialoge
+tk
+
+# Zusätzliche Pakete für NLP und Regex
+regex
+
+# Optional: speicherbezogene Funktionen und Analyse
+statistics
+
+# Weitere von tkinter abhängige Bibliotheken (optional)
+tkinter
+
+# Falls `gui` und `storage` eigene Module sind, ist kein zusätzlicher Import notwendig.
