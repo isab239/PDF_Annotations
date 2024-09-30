@@ -14,7 +14,7 @@ nltk
 matplotlib
 
 # NumPy für numerische Berechnungen
-numpy==1.21.5
+numpy>=1.23.0
 
 # spaCy für NLP-Aufgaben (Falls im Programm verwendet)
 spacy
