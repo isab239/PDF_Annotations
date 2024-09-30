@@ -1,29 +1,10 @@
-# GUI
 streamlit==1.26.0
-
-# Pandas für Datenverarbeitung und Analyse
+pandas==1.5.3
+matplotlib==3.6.2
+spacy==3.4.3
+streamlit
 pandas
-
-# PyMuPDF (fitz) für PDF-Bearbeitung
-pymupdf
-
-# NLTK für Sprachverarbeitung (Tokenisierung)
-nltk
-
-# Matplotlib für Diagrammerstellung
 matplotlib
-
-# NumPy für numerische Berechnungen
-numpy>=1.23.0
-
-# spaCy für NLP-Aufgaben (Falls im Programm verwendet)
 spacy
-
-# PyPDF2 für die PDF-Verarbeitung
-pypdf2
-
-# tkinter für Datei-Dialoge
-tk
-
-# Zusätzliche Pakete für NLP und Regex
-regex
+pymupdf
+nltk
