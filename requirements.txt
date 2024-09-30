@@ -1,5 +1,5 @@
 # Streamlit für die GUI
-streamlit
+streamlit==1.26.0
 
 # Pandas für Datenverarbeitung und Analyse
 pandas
