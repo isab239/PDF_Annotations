@@ -1,4 +1,4 @@
-# Streamlit für die GUI
+# GUI
 streamlit==1.26.0
 
 # Pandas für Datenverarbeitung und Analyse
