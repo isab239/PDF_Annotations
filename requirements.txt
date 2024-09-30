@@ -26,4 +26,4 @@ pypdf2
 tk
 
 # Zusätzliche Pakete für NLP und Regex
-regexv
+regex
